@@ -1,0 +1,6 @@
+{
+  "name": "ase-presentation",
+  "short_name": "ase-presentation",
+  "start_url": "/",
+  "display": "standalone"
+}
