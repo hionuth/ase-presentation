@@ -5,8 +5,7 @@
     "polymer": "Polymer/polymer#^1.4.0",
     "google-map": "GoogleWebComponents/google-map#^1.2.0",
     "geo-location": "ebidel/geo-location#^1.0.6",
-    "iron-ajax": "PolymerElements/iron-ajax#^1.4.3",
-    "geo-codec": "jifalops/geo-codec#^1.0.1"
+    "iron-ajax": "PolymerElements/iron-ajax#^1.4.3"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
