@@ -1,0 +1,12 @@
+{
+  "entrypoint": "index.html",
+  "shell": "src/ase-presentation-app.html",
+  "sources": [
+    "src/**/*",
+    "images/**/*",
+    "data/**/*"
+  ],
+  "includeDependencies": [
+    "bower_components/webcomponentsjs/webcomponents-lite.min.js"
+  ]
+}
