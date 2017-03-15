@@ -1,0 +1,35 @@
+<html><head><link rel="import" href="../bower_components/polymer/polymer.html">
+<link rel="import" href="../bower_components/google-map/google-map.html">
+<link rel="import" href="../bower_components/geo-location/geo-location.html">
+<link rel="import" href="../bower_components/google-map/google-map-marker.html">
+<link rel="import" href="../bower_components/iron-ajax/iron-ajax.html">
+<link rel="import" href="../bower_components/google-map/google-map-directions.html">
+
+</head><body><dom-module id="ing-atms">
+    <template>
+        <style>
+            google-map {
+                position: absolute;
+                top: 0;
+                left: 0;
+                height: 100%;
+                width: 100%;
+            }
+        </style>
+        <iron-ajax auto="" url="../data/ing-locations.json" last-response="{{atms}}"></iron-ajax>
+        <geo-location map="[[map]]" latitude="{{lat}}" longitude="{{lng}}"></geo-location>
+        <google-map-directions map="{{map}}" api-key="[[apiKey]]" start-address="[[startAddress]]" end-address="[[endAddress]]" travel-mode="WALKING" renderer-options="[[_rendererOptions]]"></google-map-directions>
+        <google-map map="{{map}}" api-key="[[apiKey]]" latitude="[[lat]]" longitude="[[lng]]" zoom="14" disable-default-ui="">
+            <google-map-marker latitude="[[lat]]" longitude="[[lng]]" icon="images/my-location.png">
+            </google-map-marker>
+            <template is="dom-repeat" items="[[atms]]" as="atm">
+                <google-map-marker latitude="[[atm.map.latitude]]" longitude="[[atm.map.longitude]]" icon="images/pin.png" data-address$="[[atm.address]]" click-events="" on-google-map-marker-click="_showDirection">
+                    <h2>[[atm.name]]</h2>
+                    <p>[[atm.schedule]]</p>
+                </google-map-marker>
+            </template>
+        </google-map>
+    </template>
+    <script>Polymer({is:"ing-atms",properties:{apiKey:String,_rendererOptions:{type:Object,value:function(){return{suppressMarkers:!0,preserveViewport:!0}}}},_showDirection:function(e){this.startAddress={lat:this.lat,lng:this.lng},this.endAddress=e.target.dataset.address}});</script>
+</dom-module>
+</body></html>
