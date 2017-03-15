@@ -1,0 +1,3320 @@
+[
+    {
+        "name": "ING Bank Crystal",
+        "address": "Bd. Iancu de Hunedoara nr. 48, parter, Sector 1, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0212 091 524",
+                "+4 0212 091 520"
+            ]
+        },
+        "email": "",
+        "schedule": "L, Mi, V: 09:00 - 16:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.452472",
+            "longitude": "26.095278",
+            "zoom_level": "15"
+        },
+        "type": "Branch",
+        "id": "5001"
+    },
+    {
+        "name": "ING Bank Metropolis",
+        "address": "Str. Grigore Alexandrescu nr. 89-97 Corp C, Sector 1, Bucuresti",
+        "tel_pj": {
+            "tel": "+4 0212 221 600"
+        },
+        "fax_pj": {
+            "fax": "+4 0212 229 385"
+        },
+        "email": "",
+        "schedule": "L-V: 09:00 - 16:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1"
+        },
+        "wholesale": {
+            "corporate": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "casierie": {
+            "casierie": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.452721",
+            "longitude": "26.097039",
+            "zoom_level": "15"
+        },
+        "type": "Branch",
+        "id": "5044"
+    },
+    {
+        "name": "ING Bank Pantelimon",
+        "address": "Sos. Pantelimon nr. 248-250, bl. 59-60, parter, Sector 2, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 271",
+                "+4 0314 061 272"
+            ]
+        },
+        "tel_pj": {
+            "tel": "+4 0314 064 310"
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 270"
+        },
+        "fax_pj": {
+            "fax": "+4 0214 028 239"
+        },
+        "email": "INGOffice.Pantelimon@ingoffice.ro",
+        "schedule": "ING Office: L-V: 09:00 - 19:00, S: 09:30 - 14:00 / ING Bank: L-V: 09:00 - 16:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1"
+        },
+        "wholesale": {
+            "corporate": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "casierie": {
+            "casierie": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.442855",
+            "longitude": "26.154819",
+            "zoom_level": "15"
+        },
+        "type": "Office and Branch",
+        "id": "5559"
+    },
+    {
+        "name": "ING Bank Oltenitei",
+        "address": "Sos. Oltenitei nr. 50-52, bl. 7A, sc. 1, Sector 4, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 211",
+                "+4 0314 061 212"
+            ]
+        },
+        "tel_pj": {
+            "tel": "+4 0314 064 410"
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 210"
+        },
+        "fax_pj": {
+            "fax": "+4 0314 064 440"
+        },
+        "email": "INGOffice.Oltenitei@ingoffice.ro",
+        "schedule": "ING Office: L-V: 09:00 - 17:30 / ING Bank: L-V: 09:00 - 16:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1"
+        },
+        "wholesale": {
+            "corporate": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "dropbox": {
+            "dropbox": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.398858",
+            "longitude": "26.107205",
+            "zoom_level": "15"
+        },
+        "type": "Office+",
+        "id": "5554"
+    },
+    {
+        "name": "ING Bank Opera",
+        "address": "Str. Costache Negri nr. 1-5, Sector 5, Bucuresti",
+        "tel_pj": {
+            "tel": "+4 0314 060 629"
+        },
+        "fax_pj": {
+            "fax": "+4 0314 060 639"
+        },
+        "email": "",
+        "schedule": "L-V: 09:00 - 16:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1"
+        },
+        "wholesale": {
+            "corporate": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "casierie": {
+            "casierie": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.433617",
+            "longitude": "26.078635",
+            "zoom_level": "15"
+        },
+        "type": "Branch",
+        "id": "5002"
+    },
+    {
+        "name": "ING Bank Tipografilor",
+        "address": "Str. Tipografilor nr. 11-15, cladire B3-B4, Sector 1, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 067 609",
+                "+4 0314 067 615"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 067 640"
+        },
+        "email": "",
+        "schedule": "Ma, J: 09:00 - 16:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.483429",
+            "longitude": "26.072535",
+            "zoom_level": "15"
+        },
+        "type": "Branch",
+        "id": "5028"
+    },
+    {
+        "name": "ING Bank Unirii",
+        "address": "Bld. Unirii nr. 68, Sector 3, Bucuresti",
+        "tel_pj": {
+            "tel": [
+                "+4 0314 064 110",
+                "+4 0314 064 112"
+            ]
+        },
+        "fax_pj": {
+            "fax": "+4 0213 106 808"
+        },
+        "email": "",
+        "schedule": "L-V: 09:00 - 16:30",
+        "wholesale": {
+            "corporate": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "casierie": {
+            "casierie": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.425319",
+            "longitude": "26.122896",
+            "zoom_level": "15"
+        },
+        "type": "Branch",
+        "id": "5025"
+    },
+    {
+        "name": "ING Bank Uverturii",
+        "address": "Bld. Uverturii nr. 49, Sector 6, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 545",
+                "+4 0314 061 542"
+            ]
+        },
+        "tel_pj": {
+            "tel": [
+                "+4 0314 064 210",
+                "+4 0314 064 221",
+                "+4 0314 064 241"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 540"
+        },
+        "fax_pj": {
+            "fax": "+4 0214 302 088"
+        },
+        "email": "INGOffice.Uverturii@ingoffice.ro",
+        "schedule": "ING Office: L-V: 09:00 - 18:00, S: 09:00 - 13:00 / ING Bank: L-V: 09:00 - 16:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1"
+        },
+        "wholesale": {
+            "corporate": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "casierie": {
+            "casierie": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.436854",
+            "longitude": "26.033102",
+            "zoom_level": "15"
+        },
+        "type": "Office and Branch",
+        "id": "5691"
+    },
+    {
+        "name": "ING Office 1 Decembrie",
+        "address": "Bd. 1 Decembrie 1918 nr. 37, bl. P105, parter, Sector 3, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 491",
+                "+4 0314 061 492"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 490"
+        },
+        "email": "INGOffice.1Decembrie@ingoffice.ro",
+        "schedule": "L-V: 09:30 - 18:30, S: 09:30 - 13:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.415988",
+            "longitude": "26.175919",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5690"
+    },
+    {
+        "name": "ING Office 13 Septembrie",
+        "address": "Calea 13 Septembrie nr. 107-109, bl. 103-105, Sector 5, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 081",
+                "+4 0314 061 082"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 080"
+        },
+        "email": "INGOffice.13Septembrie@ingoffice.ro",
+        "schedule": "L-V: 08:00 - 19:30, S: 09:00 - 13:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.424396",
+            "longitude": "26.076404",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5506"
+    },
+    {
+        "name": "ING Office Alba Iulia",
+        "address": "P-ta. Alba Iulia nr. 2, bl. I1, parter, Sector 3, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 121",
+                "+4 0314 061 122"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 120"
+        },
+        "email": "INGOffice.AlbaIulia@ingoffice.ro",
+        "schedule": "L-V: 09:00 - 19:00, S: 09:30 - 13:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.426095",
+            "longitude": "26.130036",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5519"
+    },
+    {
+        "name": "ING Office Aviatiei",
+        "address": "Sos. Pipera nr. 35, bloc 5B, Sector 1, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 021",
+                "+4 0314 061 022"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 020"
+        },
+        "email": "INGOffice.Aviatiei@ingoffice.ro",
+        "schedule": "L-V: 09:00 - 18:30, S: 09:30 - 13:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.479927",
+            "longitude": "26.100941",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5501"
+    },
+    {
+        "name": "ING Office Balcescu",
+        "address": "Bd. Nicolae Balcescu nr. 22, Sector 1, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 101",
+                "+4 0314 061 102"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 100"
+        },
+        "email": "INGOffice.Balcescu@ingoffice.ro",
+        "schedule": "L-V: 09:30 - 18:30, S: 09:30 - 13:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.438742",
+            "longitude": "26.101002",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5510"
+    },
+    {
+        "name": "ING Office Baneasa",
+        "address": "Sos. Bucuresti-Ploiesti nr. 24-28, Sector 1, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 241",
+                "+4 0314 061 242"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 240"
+        },
+        "email": "INGOffice.Baneasa@ingoffice.ro",
+        "schedule": "L-V: 09:30 - 18:30, S: 10:00 - 14:00",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.492445",
+            "longitude": "26.079552",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5552"
+    },
+    {
+        "name": "ING Office Bobocica",
+        "address": "Bld. Ramnicu Sarat nr. 41, Sector 3, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 064 521",
+                "+4 0314 064 522"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 064 520"
+        },
+        "email": "INGOffice.Bobocica@ingoffice.ro",
+        "schedule": "L-V: 09:00 - 19:00, S: 09:00 - 13:00",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.409192",
+            "longitude": "26.140252",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5700"
+    },
+    {
+        "name": "ING Office Brancoveanu",
+        "address": "Bd. C-tin Brancoveanu nr. 114, bl. M1/1, Sector 4, Bucuresti",
+        "tel_pf": {
+            "tel": "+4 0314 061 551"
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 550"
+        },
+        "email": "INGOffice.Brancoveanu@ingoffice.ro",
+        "schedule": "L-V: 09:00 - 19:00, S: 09:00 - 13:00",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.386567",
+            "longitude": "26.109671",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5694"
+    },
+    {
+        "name": "ING Office Bucurestii Noi",
+        "address": "Bd. Bucurestii Noi nr. 64, Sector 1, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 341",
+                "+4 0314 061 342"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 340"
+        },
+        "email": "INGOffice.BucurestiiNoi@ingoffice.ro",
+        "schedule": "L-V: 09:30 - 18:30, S: 09:30 - 13:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.484890",
+            "longitude": "26.039621",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5630"
+    },
+    {
+        "name": "ING Office Buzesti",
+        "address": "Str. Buzesti nr. 63-69, Sector 1, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 141",
+                "+4 0314 061 142"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 140"
+        },
+        "email": "INGOffice.Buzesti@ingoffice.ro",
+        "schedule": "L-V: 08:30 - 18:30, S: 10:00 - 14:00",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.449953",
+            "longitude": "26.083300",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5517"
+    },
+    {
+        "name": "ING Office Decebal",
+        "address": "Bd. Decebal nr. 22, bl. S2B, Sector 3, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 011",
+                "+4 0314 061 012"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 010"
+        },
+        "email": "INGOffice.Decebal@ingoffice.ro",
+        "schedule": "L-V: 09:00 - 19:00, S: 10:00 - 14:00",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.4311",
+            "longitude": "26.1373",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5503"
+    },
+    {
+        "name": "ING Office Chibrit",
+        "address": "Calea Grivitei nr. 395, Sector 1, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 251",
+                "+4 0314 061 252"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 250"
+        },
+        "email": "INGOffice.Chibrit@INGOffice.ro",
+        "schedule": "L-V: 09:30 - 18:30, S: 09:30 - 13:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.470245",
+            "longitude": "26.050294",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5568"
+    },
+    {
+        "name": "ING Office Colentina",
+        "address": "Sos. Colentina nr. 24, bl. 10, Sector 2, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 221",
+                "+4 0314 061 222"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 220"
+        },
+        "email": "INGOffice.Colentina@INGOffice.ro",
+        "schedule": "L-V: 09:00 - 18:00, S: 09:00 - 13:00",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.461310",
+            "longitude": "26.133378",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5553"
+    },
+    {
+        "name": "ING Office Costin Georgian",
+        "address": "Str. Lucretiu Patrascanu nr. 14, bl. MY3, parter, Sector 3, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 064 511",
+                "+4 0314 064 512"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 064 510"
+        },
+        "email": "INGOffice.CostinGeorgian@ingoffice.ro",
+        "schedule": "L-V: 09:00 - 19:00, S: 09:00 - 13:00",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.435698",
+            "longitude": "26.169821",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5699"
+    },
+    {
+        "name": "ING Office Cotroceni",
+        "address": "Str. Zarii nr. 13, parter, Sector 5, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 525",
+                "+4 0314 061 521"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 520"
+        },
+        "email": "INGOffice.Cotroceni@ingoffice.ro",
+        "schedule": "L-V: 08:30 - 18:30, S: 09:30 - 13:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.437652",
+            "longitude": "26.069075",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5680"
+    },
+    {
+        "name": "ING Office Cotroceni Mall",
+        "address": "Bd. Iuliu Maniu nr. 7, magazin 303, Sector 6, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 501",
+                "+4 0314 061 502"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 500"
+        },
+        "email": "INGOffice.CotroceniMall@ingoffice.ro",
+        "schedule": "L-V: 09:00 - 18:30, S: 09:00 - 13:00",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.433966",
+            "longitude": "26.053983",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5682"
+    },
+    {
+        "name": "ING Office Crangasi",
+        "address": "Calea Crangasi nr. 18, Sector 6, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 171",
+                "+4 0314 061 172"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 170"
+        },
+        "email": "INGOffice.Crangasi@ingoffice.ro",
+        "schedule": "L-V: 09:00 - 18:30, S: 09:00 - 14:00",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.453712",
+            "longitude": "26.050116",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5511"
+    },
+    {
+        "name": "ING Office Dorobanti",
+        "address": "Calea Dorobantilor nr. 135-145, Sector 1, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 131",
+                "+4 0314 061 132"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 130"
+        },
+        "email": "INGOffice.Dorobanti@ingoffice.ro",
+        "schedule": "L-V: 08:30 - 19:00, S: 09:30 - 13:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.456454",
+            "longitude": "26.096651",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5514"
+    },
+    {
+        "name": "ING Office Dristor",
+        "address": "Str. Dristor nr. 96, bl. 17, parter, Sector 3, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 391",
+                "+4 0314 061 392"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 390"
+        },
+        "email": "INGOffice.Dristor@ingoffice.ro",
+        "schedule": "L-V: 09:30 - 19:00, S: 09:30 - 13:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.423406",
+            "longitude": "26.137505",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5653"
+    },
+    {
+        "name": "ING Office Drumul Taberei",
+        "address": "Drumul Taberei nr. 90, bl. C8, Sector 6, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 111",
+                "+4 0314 061 112"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 110"
+        },
+        "email": "INGOffice.DrumulTaberei@ingoffice.ro",
+        "schedule": "L-V: 09:00 - 19:00, S: 09:30 - 14:00",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.419452",
+            "longitude": "26.019677",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5518"
+    },
+    {
+        "name": "ING Office Favorit",
+        "address": "Drumul Taberei nr. 32, Sector 6, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 201",
+                "+4 0314 061 202"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 200"
+        },
+        "email": "INGOffice.Favorit@INGOffice.ro",
+        "schedule": "L-V: 09:00 - 18:00, S: 09:00 - 13:00",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.424026",
+            "longitude": "26.043198",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5520"
+    },
+    {
+        "name": "ING Office Gara de Nord",
+        "address": "Calea Grivitei nr. 163, Sector 1, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 191",
+                "+4 0314 061 192"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 190"
+        },
+        "email": "INGOffice.Gara@ingoffice.ro",
+        "schedule": "L-V: 09:00 - 19:00, S: 10:00 - 14:00",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.446827",
+            "longitude": "26.077165",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5515"
+    },
+    {
+        "name": "ING Office Giurgiului",
+        "address": "Sos. Giurgiului nr. 119, bl. 11, parter, Sector 4, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 441",
+                "+4 0314 061 442"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 440"
+        },
+        "email": "INGOffice.Giurgiului@ingoffice.ro",
+        "schedule": "L-V: 08:30 - 19:00, S: 09:00 - 13:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.388917",
+            "longitude": "26.092988",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5666"
+    },
+    {
+        "name": "ING Office Gorjului",
+        "address": "Bd. Iuliu Maniu nr. 158A, bl. J, Sector 6, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 351",
+                "+4 0314 061 352"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 350"
+        },
+        "email": "INGOffice.Gorjului@ingoffice.ro",
+        "schedule": "L-V: 09:00 - 18:00, S: 09:00 - 13:00",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.434177",
+            "longitude": "26.016436",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5647"
+    },
+    {
+        "name": "ING Office Granitului",
+        "address": "Sos. Pantelimon nr. 354, bl. 2, parter, Sector 2, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 381",
+                "+4 0314 061 382"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 380"
+        },
+        "email": "INGOffice.Granitului@ingoffice.ro",
+        "schedule": "L-V: 09:00 - 18:00, S: 09:30 - 13:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.440751",
+            "longitude": "26.179876",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5664"
+    },
+    {
+        "name": "ING Office Iancului",
+        "address": "Bd. Mihai Bravu nr. 107-119, Sector 2, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 261",
+                "+4 0314 061 262"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 260"
+        },
+        "email": "INGOffice.Iancului@ingoffice.ro",
+        "schedule": "L-V: 09:30 - 19:00, S: 09:30 - 13:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.439935",
+            "longitude": "26.135079",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5576"
+    },
+    {
+        "name": "ING Office Lacul Tei",
+        "address": "Bd. Lacul Tei nr. 121, Sector 2, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 511",
+                "+4 0314 061 512"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 510"
+        },
+        "email": "INGOffice.LaculTei@ingoffice.ro",
+        "schedule": "L-V: 09:30 - 18:30, S: 09:30 - 13:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.462563",
+            "longitude": "26.121054",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5684"
+    },
+    {
+        "name": "ING Office Mihalache",
+        "address": "Bld. Ion Mihalache nr. 104, parter, Sector 1, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 181",
+                "+4 0314 061 182"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 180"
+        },
+        "email": "INGOffice.Mihalache@ingoffice.ro",
+        "schedule": "L-V: 09:30 - 18:30, S: 09:30 - 13:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.462",
+            "longitude": "26.073164",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5512"
+    },
+    {
+        "name": "ING Office Militari",
+        "address": "Bd. Iuliu Maniu nr. 16, bl. 14, Sector 6, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 161",
+                "+4 0314 061 162"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 160"
+        },
+        "email": "INGOffice.Militari@ingoffice.ro",
+        "schedule": "L-V: 09:00 - 18:00, S: 09:00 - 13:00",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.434546",
+            "longitude": "26.037436",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5513"
+    },
+    {
+        "name": "ING Office Mosilor",
+        "address": "Calea Mosilor nr. 284, bl. 22A, Sector 2, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 091",
+                "+4 0314 061 092"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 090"
+        },
+        "email": "INGOffice.Mosilor@ingoffice.ro",
+        "schedule": "L-V: 09:00 - 18:00, S: 09:00 - 13:00",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.443152",
+            "longitude": "26.119211",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5509"
+    },
+    {
+        "name": "ING Office Nerva Traian",
+        "address": "Str. Nerva Traian nr. 5, bl. M65, Sector 3, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 031",
+                "+4 0314 061 032"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 030"
+        },
+        "email": "INGOffice.Nerva@ingoffice.ro",
+        "schedule": "L-V: 09:30 - 18:30, S: 09:30 - 13:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.42317",
+            "longitude": "26.118444",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5504"
+    },
+    {
+        "name": "ING Office Obregia",
+        "address": "Bd. Al. Obregia nr. 31, bl. I5, parter, Sector 4, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 411",
+                "+4 0314 061 412"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 410"
+        },
+        "email": "INGOffice.Obregia@ingoffice.ro",
+        "schedule": "L-V: 09:30 - 18:30, S: 09:30 - 13:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.381776",
+            "longitude": "26.115963",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5658"
+    },
+    {
+        "name": "ING Office Romana",
+        "address": "Bd. Magheru nr. 32-36, Sector 1, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 061",
+                "+4 0314 061 062"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 060"
+        },
+        "email": "INGOffice.Romana@ingoffice.ro",
+        "schedule": "L-V: 09:00 - 19:00, S: 10:00 - 14:00",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.446104",
+            "longitude": "26.097493",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5505"
+    },
+    {
+        "name": "ING Office Sebastian",
+        "address": "Sos. Rahova nr 293, bl 81A, parter, Sector 5, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 431",
+                "+4 0314 061 432"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 430"
+        },
+        "email": "INGOffice.Sebastian@ingoffice.ro",
+        "schedule": "L-V: 09:00 - 18:00, S: 09:00 - 13:00",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.413437",
+            "longitude": "26.075039",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5662"
+    },
+    {
+        "name": "ING Office Splai Centru Vechi",
+        "address": "Splaiul Independentei nr. 1, bl. 16, Sector 4, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 321",
+                "+4 0314 061 322"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 320"
+        },
+        "email": "INGOffice.Splai@ingoffice.ro",
+        "schedule": "L-V: 08:30 - 19:00, S: 10:00 - 14:00",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.428731",
+            "longitude": "26.10049",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5695"
+    },
+    {
+        "name": "ING Office Stefan cel Mare Lizeanu",
+        "address": "Sos. Stefan cel Mare nr. 56-58, Sector 2, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 041",
+                "+4 0314 061 042"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 040"
+        },
+        "email": "INGOffice.Stefan@ingoffice.ro",
+        "schedule": "L-V: 09:30 - 18:00, S: 09:30 - 13:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.452025",
+            "longitude": "26.118122",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5502"
+    },
+    {
+        "name": "ING Office Stefan cel Mare Polona",
+        "address": "Bd. Stefan cel Mare nr. 12, bl. 18, Sector 1, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 236",
+                "+4 0314 061 231"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 230"
+        },
+        "email": "INGOffice.Floreasca@ingoffice.ro",
+        "schedule": "L-V: 08:30 - 18:30, S: 09:30 - 13:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.452731",
+            "longitude": "26.102026",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5551"
+    },
+    {
+        "name": "ING Office Stirbei Voda",
+        "address": "Str. Stirbei Voda nr. 103, bl. 24A, parter, Sector 1, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 281",
+                "+4 0314 061 282"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 280"
+        },
+        "email": "INGOffice.StirbeiVoda@ingoffice.ro",
+        "schedule": "L-V: 09:00 - 18:30, S: 10:00 - 14:00",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.439064",
+            "longitude": "26.079863",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5592"
+    },
+    {
+        "name": "ING Office Theodor Pallady",
+        "address": "Bd. Theodor Pallady nr. 2, bl. M2A, parter, Sector 3, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 291",
+                "+4 0314 061 292"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 290"
+        },
+        "email": "INGOffice.TheodorPallady@ingoffice.ro",
+        "schedule": "L-V: 09:00 - 18:30, S: 09:00 - 13:00",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.412501",
+            "longitude": "26.164745",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5581"
+    },
+    {
+        "name": "ING Office Tineretului",
+        "address": "Bd. Gheorghe sincai nr. 2, bl. 4, parter, Sector 4, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 311",
+                "+4 0314 061 312"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 310"
+        },
+        "email": "INGOffice.Tineretului@ingoffice.ro",
+        "schedule": "L-V: 09:00 - 18:00, S: 09:00 - 13:00",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.414409",
+            "longitude": "26.105846",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5596"
+    },
+    {
+        "name": "ING Office Titan",
+        "address": "Bd. N. Grigorescu nr. 31A, bl. N21, parter, Sector 3, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 331",
+                "+4 0314 061 332"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 330"
+        },
+        "email": "INGOffice.Titan@ingoffice.ro",
+        "schedule": "L-V: 09:00 - 18:30, S: 09:30 - 13:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.425672",
+            "longitude": "26.163532",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5665"
+    },
+    {
+        "name": "ING Office Titulescu",
+        "address": "Sos. N. Titulescu nr. 64, bl. 24A, Sector 1, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 071",
+                "+4 0314 061 072"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 070"
+        },
+        "email": "INGOffice.Titulescu@ingoffice.ro",
+        "schedule": "L-V: 09:00 - 18:00, S: 10:00 - 14:00",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.452840",
+            "longitude": "26.074556",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5508"
+    },
+    {
+        "name": "ING Office Tricodava",
+        "address": "Str. Brasov nr. 25, Galeria comerciala a Centrului Comercial Drumul Taberei, parter, Sector 6, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 371",
+                "+4 0314 061 372"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 370"
+        },
+        "email": "INGOffice.Tricodava@ingoffice.ro",
+        "schedule": "L-V: 09:00 - 19:00, S: 09:00 - 13:00",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.417539",
+            "longitude": "26.035562",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5657"
+    },
+    {
+        "name": "ING Office Unirii",
+        "address": "Bd. Corneliu Coposu nr. 3, bl. 101, Sector 3, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 151",
+                "+4 0314 061 152"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 150"
+        },
+        "email": "INGOffice.Unirii@ingoffice.ro",
+        "schedule": "L-V: 09:00 - 18:30, S: 09:30 - 13:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.430047",
+            "longitude": "26.106613",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5516"
+    },
+    {
+        "name": "ING Office Victoriei",
+        "address": "Calea Victoriei nr. 60-64, Sector 1, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 051",
+                "+4 0314 061 052"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 050"
+        },
+        "email": "INGOffice.Victoriei@ingoffice.ro",
+        "schedule": "L-V: 09:00 - 19:00, S: 09:30 - 13:30",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.437461",
+            "longitude": "26.097774",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5507"
+    },
+    {
+        "name": "ING Office Vitan-Oltenitei",
+        "address": "Sos. Oltenitei nr. 252, bl. 149, parter, Sector 4, Bucuresti",
+        "tel_pf": {
+            "tel": [
+                "+4 0314 061 421",
+                "+4 0314 061 422"
+            ]
+        },
+        "fax_pf": {
+            "fax": "+4 0314 061 420"
+        },
+        "email": "INGOffice.VitanOltenitei@ingoffice.ro",
+        "schedule": "L-V: 08:30 - 19:30, S: 09:00 - 13:00",
+        "retail": {
+            "pf": "1",
+            "pfa": "1",
+            "imm": "1"
+        },
+        "self_bank": {
+            "self_bank": "1"
+        },
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.386178",
+            "longitude": "26.138335",
+            "zoom_level": "15"
+        },
+        "type": "Office",
+        "id": "5660"
+    },
+    {
+        "name": "ING Point AFI Palace Cotroceni",
+        "address": "Bulevardul Vasile Milea nr. 4, Sector 6, Bucuresti",
+        "email": "INGPoint.AFICotroceni@ingoffice.ro",
+        "schedule": "L-D: 10:00 - 22:00",
+        "retail": {
+            "pf": "1"
+        },
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.429608",
+            "longitude": "26.051700",
+            "zoom_level": "15"
+        },
+        "type": "Point",
+        "id": "5802"
+    },
+    {
+        "name": "ING Point Bucuresti Mall",
+        "address": "Calea Vitan nr. 55-59, Sector 3, Bucuresti",
+        "email": "INGPoint.BucurestiMall@ingoffice.ro",
+        "schedule": "L-D: 10:00 - 22:00",
+        "retail": {
+            "pf": "1"
+        },
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.419971",
+            "longitude": "26.127122",
+            "zoom_level": "15"
+        },
+        "type": "Point",
+        "id": "5808"
+    },
+    {
+        "name": "ING Point Mega Mall",
+        "address": "Bld. Pierre de Coubertin nr. 3-5, langa Arena Nationala, Sector 2, Bucuresti",
+        "email": "INGPoint.BucurestiMegaMall@ingoffice.ro",
+        "schedule": "L-D: 10:00 - 22:00",
+        "retail": {
+            "pf": "1"
+        },
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.442449",
+            "longitude": "26.152478",
+            "zoom_level": "15"
+        },
+        "type": "Point",
+        "id": "5801"
+    },
+    {
+        "name": "ING Point Promenada",
+        "address": "Calea Floreasca nr. 246B, Sector 1, Bucuresti",
+        "email": "INGPoint.Promenada@ingoffice.ro",
+        "schedule": "L-D: 10:00 - 22:00",
+        "retail": {
+            "pf": "1"
+        },
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.478541",
+            "longitude": "26.103172",
+            "zoom_level": "15"
+        },
+        "type": "Point",
+        "id": "5806"
+    },
+    {
+        "name": "ING ATM AFI Palace Cotroceni",
+        "address": "Bulevardul Vasile Milea nr. 4, Sector 6, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 10:00 - 22:00",
+        "atm": {
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.429608",
+            "longitude": "26.051700",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6168"
+    },
+    {
+        "name": "ING ATM Auchan - City Crangasi",
+        "address": "Bd. Constructorilor nr. 16A, Sector 6, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 08:00 - 22:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.457618",
+            "longitude": "26.040519",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6254"
+    },
+    {
+        "name": "ING ATM Auchan Militari",
+        "address": "Bld. Iuliu Maniu nr. 546-560, Sector 6, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 08:00 - 22:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1"
+        },
+        "map": {
+            "latitude": "44.439372",
+            "longitude": "25.982022",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6165"
+    },
+    {
+        "name": "ING ATM Auchan Titan",
+        "address": "Bd. 1 Decembrie 1918 nr. 33A, Sector 3, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 08:00 - 22:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1"
+        },
+        "map": {
+            "latitude": "44.421012",
+            "longitude": "26.179031",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6206"
+    },
+    {
+        "name": "ING ATM Auchan Vitan",
+        "address": "Str. Calea Vitan nr. 236, Sector 3, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 07:00 - 23:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1"
+        },
+        "map": {
+            "latitude": "44.408011",
+            "longitude": "26.139820",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6156"
+    },
+    {
+        "name": "ING ATM Baneasa Shopping City",
+        "address": "Sos. Bucuresti-Ploiesti 42D, incinta Baneasa Shopping City, Sector 1, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 10:00 - 23:00",
+        "atm": {
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.508604",
+            "longitude": "26.089174",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "5034"
+    },
+    {
+        "name": "ING ATM Carrefour Chitila Colosseum",
+        "address": "Sos. Chitilei nr. 284, Sector 1, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 08:00 - 22:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1"
+        },
+        "map": {
+            "latitude": "44.493704",
+            "longitude": "26.014466",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6166"
+    },
+    {
+        "name": "ING ATM Carrefour Colentina",
+        "address": "Sos. Colentina nr. 426-426A, Sector 2, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 08:00 - 22:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1"
+        },
+        "map": {
+            "latitude": "44.474994",
+            "longitude": "26.161268",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6138"
+    },
+    {
+        "name": "ING ATM Carrefour Grand Arena Berceni",
+        "address": "Bulevardul Metalurgiei nr. 12-18, Sector 6, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 08:00 - 23:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1"
+        },
+        "map": {
+            "latitude": "44.374975",
+            "longitude": "26.118439",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6160"
+    },
+    {
+        "name": "ING ATM Carrefour Market Gorjului",
+        "address": "Bdul Iuliu Maniu nr. 140, Sector 6, Bucuresti",
+        "email": "",
+        "schedule": "Bancomat 24H",
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.434388",
+            "longitude": "26.019531",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6141"
+    },
+    {
+        "name": "ING ATM Carrefour Market Sincai",
+        "address": "Bd. Sincai nr. 1-1A, Sector 4, Bucuresti",
+        "email": "",
+        "schedule": "L-S: 07:00 - 22:00, D: 08:00 - 20:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.414557",
+            "longitude": "26.105117",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6139"
+    },
+    {
+        "name": "ING ATM Centrul Comercial Bucur Obor",
+        "address": "Soseaua Colentina nr. 2, Sector 2, Bucuresti",
+        "email": "",
+        "schedule": "Bancomat 24H",
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.45009",
+            "longitude": "26.125614",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6174"
+    },
+    {
+        "name": "ING ATM Complex Crangasi",
+        "address": "Calea Crangasi nr. 29, parter, constructia A5, Sector 6, Bucuresti",
+        "email": "",
+        "schedule": "L-S: 07:00 - 21:00; D: 07:00 - 16:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.452648",
+            "longitude": "26.048034",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6120"
+    },
+    {
+        "name": "ING ATM Conect Business Park Pipera",
+        "address": "Bld. Dimitrie Pompei nr. 10A, Sector 2, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 08:00 - 21:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1"
+        },
+        "map": {
+            "latitude": "44.481340",
+            "longitude": "26.122420",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6023"
+    },
+    {
+        "name": "ING ATM Cora Alexandriei",
+        "address": "Sos. Alexandriei nr. 152, Sector 5, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 08:00 - 22:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1"
+        },
+        "map": {
+            "latitude": "44.399343",
+            "longitude": "26.044212",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6137"
+    },
+    {
+        "name": "ING ATM Cora Lujerului",
+        "address": "Bd. Iuliu Maniu nr. 19 , Centrul Comercial Cora Lujerului, Sector 6, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 09:00 - 22:00; S: 08:00 - 22:00; D: 09:00 - 21:30",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.433127",
+            "longitude": "26.036699",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6119"
+    },
+    {
+        "name": "ING ATM Cora Pantelimon",
+        "address": "Sos. Vergului nr. 20, Sector 2, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 08:00 - 22:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1"
+        },
+        "map": {
+            "latitude": "44.438024",
+            "longitude": "26.186836",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6189"
+    },
+    {
+        "name": "ING ATM Ethos House",
+        "address": "Str. Gheorghe Titeica nr. 212-214, Sector 2, Bucuresti",
+        "email": "",
+        "schedule": "L-V: 08:00 - 20:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.472175",
+            "longitude": "26.105772",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6236"
+    },
+    {
+        "name": "ING ATM Gameloft Romania",
+        "address": "Bld. Expozitiei nr. 2, Sector 1, Bucuresti",
+        "email": "",
+        "schedule": "Bancomat 24H",
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1"
+        },
+        "map": {
+            "latitude": "44.473564",
+            "longitude": "26.058073",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6285"
+    },
+    {
+        "name": "ING ATM Galeria Comerciala Arcade Berceni",
+        "address": "Dealul Bisericii nr. 67-109, Sector 4, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 08:00 - 22:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1"
+        },
+        "map": {
+            "latitude": "44.360902",
+            "longitude": "26.122206",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6185"
+    },
+    {
+        "name": "ING ATM Galeria Real Pallady",
+        "address": "B-dul Theodor Pallady nr. 51, Sector 3, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 08:00 - 24:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1"
+        },
+        "map": {
+            "latitude": "44.408179",
+            "longitude": "26.203803",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6099"
+    },
+    {
+        "name": "ING ATM ENGIE Romania",
+        "address": "B-dul Marasesti nr. 4-6, Sector 4, Bucuresti",
+        "email": "",
+        "schedule": "L-V: 08:30 - 16:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1"
+        },
+        "map": {
+            "latitude": "44.419126",
+            "longitude": "26.098457",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6230"
+    },
+    {
+        "name": "ING ATM Green Court",
+        "address": "Str. Gara Herastrau nr. 4, Sector 2, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 07:00 - 23:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.479131",
+            "longitude": "26.105438",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6233"
+    },
+    {
+        "name": "ING ATM Kaufland Aparatorii Patriei",
+        "address": "Sos. Oltenitei nr. 388, Sector 4, Bucuresti",
+        "email": "",
+        "schedule": "Bancomat 24H",
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.385041",
+            "longitude": "26.139743",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6197"
+    },
+    {
+        "name": "ING ATM Kaufland Brancusi",
+        "address": "Str. Valea Oltului nr. 195-197, Sector 6, Bucuresti",
+        "email": "",
+        "schedule": "Bancomat 24H",
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.421992",
+            "longitude": "26.011832",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6199"
+    },
+    {
+        "name": "ING ATM Kaufland Bucurestii Noi",
+        "address": "Bd. Bucurestii Noi nr. 50, Sector 1, Bucuresti",
+        "email": "",
+        "schedule": "Bancomat 24H",
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.480911",
+            "longitude": "26.042978",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6186"
+    },
+    {
+        "name": "ING ATM Kaufland Electroaparataj",
+        "address": "Sos. Pantelimon nr. 244-246, Sector 2, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 10:00 - 22:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.442995",
+            "longitude": "26.152487",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6127"
+    },
+    {
+        "name": "ING ATM Kaufland Ferentari",
+        "address": "Calea Ferentari nr. 62, Sector 5, Bucuresti",
+        "email": "",
+        "schedule": "L-V: 07:30 - 22:00, S-D: 08:00 - 20:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.407169",
+            "longitude": "26.077936",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6255"
+    },
+    {
+        "name": "ING ATM Kaufland Floreasca",
+        "address": "Str. Barbu Vacarescu nr. 120-144, Sector 2, Bucuresti",
+        "email": "",
+        "schedule": "L-V: 07:30 - 22:00, S-D: 07:30 - 20:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.463589",
+            "longitude": "26.110113",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6002"
+    },
+    {
+        "name": "ING ATM Kaufland Mihai Bravu",
+        "address": "Str. Racari nr. 5 (zona Soseaua Mihai Bravu), Sector 3, Bucuresti",
+        "email": "",
+        "schedule": "L-V: 07:30 - 22:00, S-D: 07:30 - 20:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.41515",
+            "longitude": "26.136107",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6105"
+    },
+    {
+        "name": "ING ATM Kaufland Orhideelor",
+        "address": "Sos. Orhideelor nr. 46, Sector 1, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 07:00 - 24:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.449118",
+            "longitude": "26.068098",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6253"
+    },
+    {
+        "name": "ING ATM Kaufland Sebastian",
+        "address": "Str. Sebastian nr. 88, Sector 5, Bucuresti",
+        "email": "",
+        "schedule": "Bancomat 24H",
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.416505",
+            "longitude": "26.071093",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6015"
+    },
+    {
+        "name": "ING ATM Kaufland Tudor Vladimirescu",
+        "address": "Bd-ul 1 Mai nr. 21-55, Sector 6, Bucuresti",
+        "email": "",
+        "schedule": "Bancomat 24H",
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.417820",
+            "longitude": "26.039578",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6198"
+    },
+    {
+        "name": "ING ATM Kaufland Valea Cascadelor",
+        "address": "Str. Valea Cascadelor nr. 3, Sector 6, Bucuresti",
+        "email": "",
+        "schedule": "Bancomat 24H",
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.432075",
+            "longitude": "26.005717",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6126"
+    },
+    {
+        "name": "ING ATM Lakeview",
+        "address": "Str. Barbu Vacarescu nr. 301-311, Sector 2, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 07:00 - 23:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.476145",
+            "longitude": "26.106370",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6136"
+    },
+    {
+        "name": "ING ATM Mega Image Andronache",
+        "address": "Sos. Colentina nr. 261, Sector 2, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 07:30 - 22:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.469575",
+            "longitude": "26.144789",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6271"
+    },
+    {
+        "name": "ING ATM Mega Image Basarabiei",
+        "address": "B-dul Basarabia nr. 110, bl. L8, Sector 2, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 07:00 - 22:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.433498",
+            "longitude": "26.155726",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6256"
+    },
+    {
+        "name": "ING ATM Mega Image Calea Grivitei",
+        "address": "Calea Grivitei nr. 214, Sector 1, Bucuresti",
+        "email": "",
+        "schedule": "L-S: 08:00 - 22:00, D: 08:00 - 21:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.462273",
+            "longitude": "26.057053",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6149"
+    },
+    {
+        "name": "ING ATM Mega Image City Mall",
+        "address": "Sos. Oltenitei nr. 2, Sector 4, Bucuresti",
+        "email": "",
+        "schedule": "L-S: 07:00 - 22:00; D: 07:00 - 21:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.401637",
+            "longitude": "26.097496",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6150"
+    },
+    {
+        "name": "ING ATM Mega Image Favorit",
+        "address": "Complex Favorit, Sector 6, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 08:00 - 22:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.424650",
+            "longitude": "26.046442",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6125"
+    },
+    {
+        "name": "ING ATM Mega Image Hala Traian",
+        "address": "Calea Calarasilor nr. 133, Sector 3, Bucuresti",
+        "email": "",
+        "schedule": "L-S: 08:00 - 22:00, D: 08:00 - 21:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.433313",
+            "longitude": "26.120448",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6184"
+    },
+    {
+        "name": "ING ATM Mega Image Industriilor",
+        "address": "Str. Industriilor nr. 28, Sector 3, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 07:30 - 22:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.429883",
+            "longitude": "26.200509",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6272"
+    },
+    {
+        "name": "ING ATM Mega Image Magheru",
+        "address": "Bld. Gheorghe Magheru nr. 9, Sector 1, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 07:30 - 24:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.443216",
+            "longitude": "26.097862",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6273"
+    },
+    {
+        "name": "ING ATM Mega Image Marasesti",
+        "address": "B-dul Marasesti nr. 131, Sector 4, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 08:00 - 22:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.422756",
+            "longitude": "26.108210",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6267"
+    },
+    {
+        "name": "ING ATM Mega Image Piata Sudului",
+        "address": "Sos. Oltenitei nr. 208, Sector 4, Bucuresti",
+        "email": "",
+        "schedule": "L-S: 08:00 - 23:00; D: 08:00 - 22:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.393679",
+            "longitude": "26.120044",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6151"
+    },
+    {
+        "name": "ING ATM Mega Image Plaza Romania",
+        "address": "B-dul Timisoara nr. 26, Sector 6, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 08:00 - 22:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.428661",
+            "longitude": "26.034347",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6275"
+    },
+    {
+        "name": "ING ATM Mega Image Prelungirea Ghencea",
+        "address": "Prelungirea Ghencea nr. 89 B, Sector 6, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 07:30 - 22:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.411295",
+            "longitude": "26.015680",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6183"
+    },
+    {
+        "name": "ING ATM Mega Image Progresului",
+        "address": "Sos. Giurgiului nr. 115, Sector 4, Bucuresti",
+        "email": "",
+        "schedule": "L-S: 08:00 - 22:00; D: 08:00 - 21:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.391431",
+            "longitude": "26.093371",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6278"
+    },
+    {
+        "name": "ING ATM Mega Image Sebastian (Prosper)",
+        "address": "Calea 13 Septembrie nr. 221-225, parter si subsol, Sector 5, Bucuresti",
+        "email": "",
+        "schedule": "L-S: 07:00 - 23:00, D: 07:00 - 22:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1"
+        },
+        "map": {
+            "latitude": "44.420279",
+            "longitude": "26.065762",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6074"
+    },
+    {
+        "name": "ING ATM Mega Image Sisesti",
+        "address": "Sos. Gheorghe Ionescu Sisesti nr. 8B (fost 8A), Sector 1, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 07:30 - 23:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.500139",
+            "longitude": "26.068431",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6214"
+    },
+    {
+        "name": "ING ATM Mega Image Sos. Berceni",
+        "address": "Sos. Berceni nr. 41, Sector 4, Bucuresti",
+        "email": "",
+        "schedule": "L-S: 08:00 - 22:00; D: 08:00 - 21:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.382701",
+            "longitude": "26.132298",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6152"
+    },
+    {
+        "name": "ING ATM Mega Image Sos. Colentina",
+        "address": "Sos. Colentina nr. 81, Sector 2, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 08:00 - 22:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.466635",
+            "longitude": "26.137897",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6148"
+    },
+    {
+        "name": "ING ATM Mega Image Theodor Pallady",
+        "address": "Bd. Theodor Pallady nr. 73A, Sector 3, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 07:30 - 23:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.411048",
+            "longitude": "26.173296",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6147"
+    },
+    {
+        "name": "ING ATM Mega Image Unirii",
+        "address": "Piata Unirii nr. 1, demisol, Sector 3, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 07:00 - 22:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.428508",
+            "longitude": "26.104352",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6268"
+    },
+    {
+        "name": "ING ATM Mega Image Vitan",
+        "address": "Calea Vitan nr. 13-19, Sector 3, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 07:30 - 22:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1"
+        },
+        "map": {
+            "latitude": "44.423050",
+            "longitude": "26.124313",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6056"
+    },
+    {
+        "name": "ING ATM Mega Mall",
+        "address": "Bld. Pierre de Coubertin nr. 3-5, langa Arena Nationala, Sector 2, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 10:00 - 22:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1"
+        },
+        "map": {
+            "latitude": "44.442449",
+            "longitude": "26.152478",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6238"
+    },
+    {
+        "name": "ING ATM Park Lake",
+        "address": "Str. Liviu Rebreanu nr. 4, Sector 3, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 10:00 - 22:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.420295",
+            "longitude": "26.149762",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6280"
+    },
+    {
+        "name": "ING ATM Pasaj pietonal Universitatea Bucuresti",
+        "address": "Bld. Gheorghe Magheru, in incinta pasajului pietonal Universitatea Bucuresti, Sector 1, Bucuresti",
+        "email": "",
+        "schedule": "Bancomat 24H",
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.435386",
+            "longitude": "26.102376",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6205"
+    },
+    {
+        "name": "ING ATM Promenada",
+        "address": "Calea Floreasca nr. 246B, Sector 1, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 10:00 - 22:00",
+        "atm": {
+            "atm_ron": "1",
+            "atm_euro": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1",
+            "ATMleieuroretdep": "1"
+        },
+        "map": {
+            "latitude": "44.478702",
+            "longitude": "26.103365",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6245"
+    },
+    {
+        "name": "ING ATM Romstal",
+        "address": "Sos. Vitan-Barzesti nr. 11A (langa IML), Sector 4, Bucuresti",
+        "email": "",
+        "schedule": "L-S: 08:00 - 18:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1"
+        },
+        "map": {
+            "latitude": "44.390538",
+            "longitude": "26.147486",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "100001"
+    },
+    {
+        "name": "ING ATM Spitalul Militar",
+        "address": "Str. Mircea Vulcanescu nr. 88, Sector 1, Bucuresti",
+        "email": "",
+        "schedule": "Bancomat 24H",
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.441602",
+            "longitude": "26.075295",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6060"
+    },
+    {
+        "name": "ING ATM Strip Mall Pipera",
+        "address": "B-dul Dimitrie Pompeiu nr. 7G, Sector 1, Bucuresti",
+        "email": "",
+        "schedule": "Bancomat 24H",
+        "atm": {
+            "atm_24": "1",
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.480771",
+            "longitude": "26.114953",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6217"
+    },
+    {
+        "name": "ING ATM Veranda Mall",
+        "address": "Str. Ziduri Mosi nr. 23, Sector 2, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 10:00 - 22:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.452419",
+            "longitude": "26.129574",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6284"
+    },
+    {
+        "name": "ING ATM Vulcan Value Center",
+        "address": "Str. Mihail Sebastian nr. 88, Sector 5, Bucuresti",
+        "email": "",
+        "schedule": "L-D: 08:00 - 22:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1"
+        },
+        "map": {
+            "latitude": "44.418625",
+            "longitude": "26.071360",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6195"
+    },
+    {
+        "name": "ING ATM Willbrook Platinum Business and Convention Center",
+        "address": "Sos. Bucuresti-Ploiesti nr. 172-176, Sector 1, Bucuresti",
+        "email": "",
+        "schedule": "L-V: 09:00 - 18:00",
+        "atm": {
+            "atm_ron": "1",
+            "ATMleiret": "1",
+            "ATMleiretdep": "1"
+        },
+        "map": {
+            "latitude": "44.528240",
+            "longitude": "26.071619",
+            "zoom_level": "15"
+        },
+        "type": "ATM stand-alone",
+        "id": "6215"
+    }
+]
