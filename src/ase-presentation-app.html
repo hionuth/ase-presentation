@@ -29,7 +29,7 @@
                                start-address="{{_startAddress}}"
                                end-address="{{_endAddress}}"
                                travel-mode="WALKING"
-                               render-options="{{_renderOptions}}">
+                               renderer-options="{{_renderOptions}}">
         </google-map-directions>
 
         <geo-codec id="codec" api-key="[[apiKey]]"></geo-codec>
@@ -46,6 +46,8 @@
                                    data-location$="[[atm]]"
                                    on-google-map-marker-click="_showDirections"
                                    click-events>
+                    <h2>[[atm.name]]</h2>
+                    <p>[[atm.schedule]]</p>
                 </google-map-marker>
             </template>
         </google-map>
@@ -63,7 +65,8 @@
                     type: Object,
                     value: function () {
                         return {
-                            suppressMarkers: true
+                            suppressMarkers: true,
+                            preserveViewport: true
                         };
                     }
                 }

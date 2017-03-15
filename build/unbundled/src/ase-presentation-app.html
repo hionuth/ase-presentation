@@ -25,7 +25,7 @@
 
         <geo-location latitude="{{lat}}" longitude="{{lng}}"></geo-location>
 
-        <google-map-directions map="{{map}}" api-key="[[apiKey]]" start-address="{{_startAddress}}" end-address="{{_endAddress}}" travel-mode="WALKING" render-options="{{_renderOptions}}">
+        <google-map-directions map="{{map}}" api-key="[[apiKey]]" start-address="{{_startAddress}}" end-address="{{_endAddress}}" travel-mode="WALKING" renderer-options="{{_renderOptions}}">
         </google-map-directions>
 
         <geo-codec id="codec" api-key="[[apiKey]]"></geo-codec>
@@ -34,11 +34,13 @@
             <google-map-marker latitude="[[lat]]" longitude="[[lng]]" icon="images/my-location.png"></google-map-marker>
             <template is="dom-repeat" items="[[atms]]" as="atm">
                 <google-map-marker latitude="[[atm.map.latitude]]" longitude="[[atm.map.longitude]]" icon="images/pin.png" data-location$="[[atm]]" on-google-map-marker-click="_showDirections" click-events="">
+                    <h2>[[atm.name]]</h2>
+                    <p>[[atm.schedule]]</p>
                 </google-map-marker>
             </template>
         </google-map>
     </template>
 
-    <script>Polymer({is:"ase-presentation-app",properties:{apiKey:{type:String,value:"AIzaSyB3oxbBeUtSLiCi8n27uKRhIzjdPPk_PrY"},_renderOptions:{type:Object,value:function(){return{suppressMarkers:!0}}}},_showDirections:function(e){this.$.codec.reverseGeocode(this.lat,this.lng,!0,function(t){this._startAddress=t,this._endAddress=JSON.parse(e.target.dataset.location).address}.bind(this))}});</script>
+    <script>Polymer({is:"ase-presentation-app",properties:{apiKey:{type:String,value:"AIzaSyB3oxbBeUtSLiCi8n27uKRhIzjdPPk_PrY"},_renderOptions:{type:Object,value:function(){return{suppressMarkers:!0,preserveViewport:!0}}}},_showDirections:function(e){this.$.codec.reverseGeocode(this.lat,this.lng,!0,function(t){this._startAddress=t,this._endAddress=JSON.parse(e.target.dataset.location).address}.bind(this))}});</script>
 </dom-module>
 </body></html>
