@@ -4,7 +4,6 @@
 <link rel="import" href="../bower_components/google-map/google-map-directions.html">
 <link rel="import" href="../bower_components/geo-location/geo-location.html">
 <link rel="import" href="../bower_components/iron-ajax/iron-ajax.html">
-<link rel="import" href="../bower_components/geo-codec/geo-codec.html">
 
 </head><body><dom-module id="ase-presentation-app">
     <template>
@@ -28,12 +27,10 @@
         <google-map-directions map="{{map}}" api-key="[[apiKey]]" start-address="{{_startAddress}}" end-address="{{_endAddress}}" travel-mode="WALKING" renderer-options="{{_renderOptions}}">
         </google-map-directions>
 
-        <geo-codec id="codec" api-key="[[apiKey]]"></geo-codec>
-
         <google-map id="map" map="{{map}}" api-key="[[apiKey]]" disable-default-ui="" latitude="[[lat]]" longitude="[[lng]]" zoom="15">
             <google-map-marker latitude="[[lat]]" longitude="[[lng]]" icon="images/my-location.png"></google-map-marker>
             <template is="dom-repeat" items="[[atms]]" as="atm">
-                <google-map-marker latitude="[[atm.map.latitude]]" longitude="[[atm.map.longitude]]" icon="images/pin.png" data-location$="[[atm]]" on-google-map-marker-click="_showDirections" click-events="">
+                <google-map-marker latitude="[[atm.map.latitude]]" longitude="[[atm.map.longitude]]" icon="images/pin.png" data-address$="[[atm.address]]" on-google-map-marker-click="_showDirections" click-events="">
                     <h2>[[atm.name]]</h2>
                     <p>[[atm.schedule]]</p>
                 </google-map-marker>
@@ -41,6 +38,6 @@
         </google-map>
     </template>
 
-    <script>Polymer({is:"ase-presentation-app",properties:{apiKey:{type:String,value:"AIzaSyB3oxbBeUtSLiCi8n27uKRhIzjdPPk_PrY"},_renderOptions:{type:Object,value:function(){return{suppressMarkers:!0,preserveViewport:!0}}}},_showDirections:function(e){this.$.codec.reverseGeocode(this.lat,this.lng,!0,function(t){this._startAddress=t,this._endAddress=JSON.parse(e.target.dataset.location).address}.bind(this))}});</script>
+    <script>Polymer({is:"ase-presentation-app",properties:{apiKey:{type:String,value:"AIzaSyB3oxbBeUtSLiCi8n27uKRhIzjdPPk_PrY"},_renderOptions:{type:Object,value:function(){return{suppressMarkers:!0,preserveViewport:!0}}}},_showDirections:function(e){this._startAddress={lat:this.lat,lng:this.lng},this._endAddress=e.target.dataset.address}});</script>
 </dom-module>
 </body></html>

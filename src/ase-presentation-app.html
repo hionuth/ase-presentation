@@ -4,7 +4,6 @@
 <link rel="import" href="../bower_components/google-map/google-map-directions.html">
 <link rel="import" href="../bower_components/geo-location/geo-location.html">
 <link rel="import" href="../bower_components/iron-ajax/iron-ajax.html">
-<link rel="import" href="../bower_components/geo-codec/geo-codec.html">
 
 <dom-module id="ase-presentation-app">
     <template>
@@ -32,8 +31,6 @@
                                renderer-options="{{_renderOptions}}">
         </google-map-directions>
 
-        <geo-codec id="codec" api-key="[[apiKey]]"></geo-codec>
-
         <google-map id="map" map="{{map}}" api-key="[[apiKey]]" disable-default-ui
                     latitude="[[lat]]" longitude="[[lng]]" zoom="15">
             <google-map-marker latitude="[[lat]]"
@@ -43,7 +40,7 @@
                 <google-map-marker latitude="[[atm.map.latitude]]"
                                    longitude="[[atm.map.longitude]]"
                                    icon="images/pin.png"
-                                   data-location$="[[atm]]"
+                                   data-address$="[[atm.address]]"
                                    on-google-map-marker-click="_showDirections"
                                    click-events>
                     <h2>[[atm.name]]</h2>
@@ -73,10 +70,9 @@
             },
 
             _showDirections: function (event) {
-                this.$.codec.reverseGeocode(this.lat, this.lng, true, function (address) {
-                    this._startAddress = address;
-                    this._endAddress = JSON.parse(event.target.dataset.location).address;
-                }.bind(this));
+                this._startAddress = { lat: this.lat, lng: this.lng};
+                this._endAddress = event.target.dataset.address;
+
             }
         });
     </script>
