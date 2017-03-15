@@ -29,7 +29,7 @@ build/bundled
 
 # Dependency directories
 node_modules
-bower_components
+/bower_components
 jspm_packages
 
 # Optional npm cache directory

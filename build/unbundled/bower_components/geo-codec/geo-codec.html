@@ -1,0 +1,19 @@
+<html><head><link rel="import" href="../polymer/polymer.html">
+<link rel="import" href="../google-apis/google-maps-api.html">
+
+
+
+</head><body><dom-module id="geo-codec">
+  <template>
+    <style>
+      :host {
+        display: none;
+      }
+    </style>
+    <google-maps-api api-key="[[apiKey]]" library-loaded="{{apiLoaded}}" on-api-load="__onApiLoad">
+    </google-maps-api>
+  </template>
+
+  <script>Polymer({is:"geo-codec",properties:{apiKey:String,apiLoaded:{type:Boolean,value:!1,notify:!0,readOnly:!0},disableQueue:{type:Boolean,value:!1,reflectToAttribute:!0}},get geocoder(){if(this.apiLoaded)return this._geocoder=this._geocoder||new google.maps.Geocoder,this._geocoder},geocode:function(e,o){return this.apiLoaded?(this.geocoder.geocode({address:e},function(t,d){d==google.maps.GeocoderStatus.OK&&t[0]?o(t[0].formatted_address,t[0].geometry.location.lat(),t[0].geometry.location.lng(),t[0].place_id):(console.warn("Geocode failed for "+e+". Status "+d,t),o())}),!0):(this.__addToQueue(this.geocode,this,arguments),!1)},reverseGeocode:function(e,o,t,d){return this.apiLoaded?(this.geocoder.geocode({location:{lat:e,lng:o}},function(i,s){if(s==google.maps.GeocoderStatus.OK&&(t||i[1])){var a=t?0:1;d(i[a].formatted_address,i[a].address_components,i[a].place_id)}else console.warn("Geocode failed for ["+e+","+o+"]. Status "+s,i),d()}),!0):(this.__addToQueue(this.reverseGeocode,this,arguments),!1)},reverseGeocodePlaceId:function(e,o){return this.apiLoaded?(this.geocoder.geocode({placeId:e},function(t,d){d==google.maps.GeocoderStatus.OK&&t[0]?o(t[0].formatted_address,t[0].address_components,t[0].geometry.location.lat(),t[0].geometry.location.lng()):(console.warn("Geocode failed for "+e+". Status "+d,t),o())}),!0):(this.__addToQueue(this.reverseGeocodePlaceId,this,arguments),!1)},emptyQueue:function(){this.queue=[]},__onApiLoad:function(){if(this.queue)for(var e=0;e<this.queue.length;e++)this.queue[e]();this._setApiLoaded(!0),this.fire("api-load")},__addToQueue:function(e,o,t){this.disableQueue||(this.queue=this.queue||[],this.queue.push(function(){console.log(e,o,t),e.apply(o,t)}))}});</script>
+</dom-module>
+</body></html>
