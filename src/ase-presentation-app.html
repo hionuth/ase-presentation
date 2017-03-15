@@ -21,7 +21,7 @@
                 left: 0;
             }
         </style>
-        <iron-ajax auto url="/data/ing-locations.json" last-response="{{atms}}"></iron-ajax>
+        <iron-ajax auto url="data/ing-locations.json" last-response="{{atms}}"></iron-ajax>
 
         <geo-location latitude="{{lat}}" longitude="{{lng}}"></geo-location>
 
@@ -38,11 +38,11 @@
                     latitude="[[lat]]" longitude="[[lng]]" zoom="15">
             <google-map-marker latitude="[[lat]]"
                                longitude="[[lng]]"
-                               icon="/images/my-location.png"></google-map-marker>
+                               icon="images/my-location.png"></google-map-marker>
             <template is="dom-repeat" items="[[atms]]" as="atm">
                 <google-map-marker latitude="[[atm.map.latitude]]"
                                    longitude="[[atm.map.longitude]]"
-                                   icon="/images/pin.png"
+                                   icon="images/pin.png"
                                    data-location$="[[atm]]"
                                    on-google-map-marker-click="_showDirections"
                                    click-events>
